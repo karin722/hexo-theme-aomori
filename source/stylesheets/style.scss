@@ -90,7 +90,7 @@ img:not([src]):not([srcset]) {
 
         &-title {
             color: var(--color-type);
-            font-family: 'Oswald', sans-serif;
+            // font-family: 'Oswald', sans-serif;
         }
 
         &-page-title {
@@ -101,7 +101,7 @@ img:not([src]):not([srcset]) {
         }
 
         .typed-cursor {
-            font-family: 'Oswald', sans-serif;
+            // font-family: 'Oswald', sans-serif;
             margin-left: 5px;
             padding-bottom: 5px;
         }
@@ -308,7 +308,7 @@ img:not([src]):not([srcset]) {
             }
 
             &::placeholder {
-                font-family: 'Oswald', sans-serif;
+                // font-family: 'Oswald', sans-serif;
                 color: var(--color-white);
             }
         }
@@ -375,7 +375,7 @@ img:not([src]):not([srcset]) {
 
             .widget-title {
                 color: var(--color-white);
-                font-family: 'Oswald', sans-serif;
+                // font-family: 'Oswald', sans-serif;
                 font-size: 16px;
                 font-weight: 300;
                 text-transform: uppercase;
@@ -978,7 +978,7 @@ img:not([src]):not([srcset]) {
 }
 
 .footer {
-    font-family: 'Oswald', sans-serif;
+    // font-family: 'Oswald', sans-serif;
     font-size: 13px;
     width: 100%;
     position: fixed;
